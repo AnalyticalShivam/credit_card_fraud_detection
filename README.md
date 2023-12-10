@@ -1,5 +1,3 @@
-Absolutely, here's a simplified version of the README focusing on the Random Forest model for credit card fraud detection without the sections on contributing and licensing:
-
 ---
 
 # Credit Card Fraud Detection System with Random Forest
